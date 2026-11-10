@@ -1,0 +1,82 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Natal Card Reference//Astro Calendar 2027//RU
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:astro-2027-1@natal-card
+DTSTAMP:20261110T000000Z
+DTSTART:20270206T160000Z
+SUMMARY:Кольцеобразное солнечное затмение
+URL:https://aistre.ru/journal/zatmeniya-2027
+END:VEVENT
+BEGIN:VEVENT
+UID:astro-2027-2@natal-card
+DTSTAMP:20261110T000000Z
+DTSTART:20270209T173600Z
+SUMMARY:Меркурий: начало ретроградности
+URL:https://aistre.ru/journal/retrogradnyy-merkuriy-2027
+END:VEVENT
+BEGIN:VEVENT
+UID:astro-2027-3@natal-card
+DTSTAMP:20261110T000000Z
+DTSTART:20270220T231300Z
+SUMMARY:Полутеневое лунное затмение
+URL:https://aistre.ru/journal/zatmeniya-2027
+END:VEVENT
+BEGIN:VEVENT
+UID:astro-2027-4@natal-card
+DTSTAMP:20261110T000000Z
+DTSTART:20270303T123200Z
+SUMMARY:Меркурий: конец ретроградности
+URL:https://aistre.ru/journal/retrogradnyy-merkuriy-2027
+END:VEVENT
+BEGIN:VEVENT
+UID:astro-2027-5@natal-card
+DTSTAMP:20261110T000000Z
+DTSTART:20270610T181500Z
+SUMMARY:Меркурий: начало ретроградности
+URL:https://aistre.ru/journal/retrogradnyy-merkuriy-2027
+END:VEVENT
+BEGIN:VEVENT
+UID:astro-2027-6@natal-card
+DTSTAMP:20261110T000000Z
+DTSTART:20270704T193900Z
+SUMMARY:Меркурий: конец ретроградности
+URL:https://aistre.ru/journal/retrogradnyy-merkuriy-2027
+END:VEVENT
+BEGIN:VEVENT
+UID:astro-2027-7@natal-card
+DTSTAMP:20261110T000000Z
+DTSTART:20270718T160300Z
+SUMMARY:Лунное затмение: касание полутени
+URL:https://aistre.ru/journal/zatmeniya-2027
+END:VEVENT
+BEGIN:VEVENT
+UID:astro-2027-8@natal-card
+DTSTAMP:20261110T000000Z
+DTSTART:20270802T100700Z
+SUMMARY:Полное солнечное затмение
+URL:https://aistre.ru/journal/zatmeniya-2027
+END:VEVENT
+BEGIN:VEVENT
+UID:astro-2027-9@natal-card
+DTSTAMP:20261110T000000Z
+DTSTART:20270817T071400Z
+SUMMARY:Полутеневое лунное затмение
+URL:https://aistre.ru/journal/zatmeniya-2027
+END:VEVENT
+BEGIN:VEVENT
+UID:astro-2027-10@natal-card
+DTSTAMP:20261110T000000Z
+DTSTART:20271007T143700Z
+SUMMARY:Меркурий: начало ретроградности
+URL:https://aistre.ru/journal/retrogradnyy-merkuriy-2027
+END:VEVENT
+BEGIN:VEVENT
+UID:astro-2027-11@natal-card
+DTSTAMP:20261110T000000Z
+DTSTART:20271028T141100Z
+SUMMARY:Меркурий: конец ретроградности
+URL:https://aistre.ru/journal/retrogradnyy-merkuriy-2027
+END:VEVENT
+END:VCALENDAR
